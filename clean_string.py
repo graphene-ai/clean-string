@@ -29,7 +29,7 @@ tests = [
     ["no p10 characters j3j3 with 100k numbers", "no characters with numbers"],
     ["<html>no tags<html>", "no tags"],
     ["&amp; no escapes &quo;", "no escapes"],
-    ["hypenated-words are okay", "hypen-words are okay"],
+    ["hypenated-words are okay", "hypenated-words are okay"],
     ["but dashes—are–not - okay", "but dashes are not okay"],
     ["it's a small world", "its a small world"],
     ["remove 🥳 emojis", "remove emojis"],
